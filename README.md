@@ -250,4 +250,4 @@ This repository serves as the official landing page for PuTTY. The software is d
 **Get the most recent version of PuTTY today!**
 
 ---
-**Last updated:** 2026-10-09 08:18:58 UTC
+**Last updated:** 2026-10-09 15:44:10 UTC
